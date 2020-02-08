@@ -8,3 +8,4 @@ cp /home/carter/.vimrc /home/carter/dev/git/archLinuxFiles/vim/
 cd /home/carter/dev/git/archLinuxFiles/
 git add .
 git commit -m "Backed up through script"
+git push
