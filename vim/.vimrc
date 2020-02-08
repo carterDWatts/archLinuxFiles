@@ -23,8 +23,10 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
-"Plugin 'valloric/youcompleteme'
-Plugin 'georgewfraser/java-language-server'
+Plugin 'valloric/youcompleteme'
+Plugin 'ervandew/supertab'
+Plugin 'vim-syntastic/syntastic'
+"Plugin 'georgewfraser/java-language-server'
 "Plugin 'eclipse/eclipse.jdt.ls'
 
 call vundle#end()            " required

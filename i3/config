@@ -1,5 +1,6 @@
-
-# i3 config file (v4)
+#Updated 2020-02-07
+#
+#i3 config file (v4)
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 #
@@ -50,7 +51,7 @@ bindsym $mod+o exec feh --randomize --bg-fill /home/carter/media/images/wallpape
 exec --no-startup-id /home/carter/.config/polybar/launch.sh
 
 #Screenshot
-bindsym $mod+p exec scrot ~/Media/images/screenShots/
+bindsym $mod+p exec scrot ~/media/images/screenShots/
 #bindsym Print exec zbacklight -set 10
 
 # Use pactl to adjust volume in PulseAudio.
