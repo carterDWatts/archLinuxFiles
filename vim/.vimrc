@@ -7,7 +7,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 set encoding=utf-8
 set tabstop=2
 set shiftwidth=2
-set expandtab
+set noexpandtab
 set smarttab
 set autoindent
 set smartindent
