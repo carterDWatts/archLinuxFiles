@@ -17,6 +17,10 @@ gpu(){
 }
 export -f gpu
 
+#newESP(){
+#	cp -r /home/carter/dev/git/esp-idf-template/* .
+#}
+#export -f newESP
 
 alias ls='ls --color=auto'
 alias power='upower -i /org/freedesktop/UPower/devices/battery_BAT1'
