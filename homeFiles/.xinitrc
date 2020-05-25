@@ -7,9 +7,6 @@ sysmodmap=/etc/X11/xinit/.Xmodmap
 
 # merge in defaults and keymaps
 
-xrandr --setprovideroutputsource modsetting NVIDIA-0
-xrandr --auto
-
 if [ -f $sysresources ]; then
 
 
@@ -53,10 +50,5 @@ fi
 
 twm &
 xclock -geometry 50x50-1+1 &
--name login
-xset b off
-i3
-
-exec home/carter/Scripts/configTouchpad.sh
-
-
+setxkbmap -option caps:escape
+exec i3

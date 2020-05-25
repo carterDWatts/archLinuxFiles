@@ -14,23 +14,10 @@ set smartindent
 set number
 set showmatch 
 set clipboard=unnamed
+set background=dark
 syntax on
 
 vmap <C-c> "+y
-
-call vundle#begin()
-
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'tpope/vim-fugitive'
-Plugin 'git://git.wincent.com/command-t.git'
-Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
-Plugin 'valloric/youcompleteme'
-Plugin 'ervandew/supertab'
-Plugin 'vim-syntastic/syntastic'
-"Plugin 'georgewfraser/java-language-server'
-"Plugin 'eclipse/eclipse.jdt.ls'
-
-call vundle#end()            " required
 filetype plugin indent on    " required
 
 set statusline+=%#warningmsg#
