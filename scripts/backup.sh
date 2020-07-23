@@ -1,5 +1,5 @@
-cp /home/carter/.config/i3/config /home/carter/dev/git/archLinuxFiles/i3/
-cp /home/carter/.config/polybar/config /home/carter/dev/git/archLinuxFiles/polybar/
+cp -r /home/carter/.config/i3 /home/carter/dev/git/archLinuxFiles/
+cp -r /home/carter/.config/polybar /home/carter/dev/git/archLinuxFiles/
 
 cp /home/carter/dev/scripts/* /home/carter/dev/git/archLinuxFiles/scripts/
 

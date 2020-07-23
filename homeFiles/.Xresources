@@ -1,12 +1,21 @@
 URxvt.scrollBar: false
 URxvt.letterSpace: 0
 
+! Copy & Paste
+
+!URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Insert: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+
+URxvt.keysym.Control-Meta-c: builtin-string:
+URxvt.keysym.Control-Meta-v: builtin-string:
+
 ! URxvt*font: xft:monaco:size=8
 
-*.font: xft:Iosevka:style=Regular:size=10
-*.boldFont: xft:Iosevka:style=Bold:size=10
-*.italicFont: xft:Iosevka:style=Italic:size=10
-*.boldItalicFont: xft:Iosevka:style=Bold Italic:size=10
+*.font: xft:Iosevka:style=Regular:size=11
+*.boldFont: xft:Iosevka:style=Bold:size=11
+*.italicFont: xft:Iosevka:style=Italic:size=11
+*.boldItalicFont: xft:Iosevka:style=Bold Italic:size=11
 
 ! special
 *.foreground:   #a5a2a2

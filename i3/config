@@ -32,6 +32,12 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec nm-applet
 
+#Rebind ___ to insert
+bindsym F12 Insert 
+
+#rebind Caps Lock to esc
+#bindsym Caps
+
 #Qutebrowser
 bindsym $mod+z exec qutebrowser
 
@@ -52,7 +58,6 @@ exec --no-startup-id /home/carter/.config/polybar/launch.sh
 #Screenshot
 bindsym $mod+p exec scrot ~/media/images/screenShots/
 
-
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
@@ -61,8 +66,10 @@ bindsym XF86AudioMute exec amixer set Master toggle
 bindsym XF86AudioMicMute exec pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
 #Screen brightness
-bindsym XF86MonBrightnessUp exec xbacklight -inc 3%
-bindsym XF86MonBrightnessDown exec xbacklight -dec 3%
+bindsym F8 exec light -A 3
+bindsym F7 exec light -U 3 
+#bindsym XF86MonBrightnessUp exec light -A 3
+#bindsym XF86MonBrightnessDown exec light -U 3
 
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient

@@ -51,4 +51,6 @@ fi
 twm &
 xclock -geometry 50x50-1+1 &
 setxkbmap -option caps:escape
+
+[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
 exec i3
