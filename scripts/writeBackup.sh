@@ -6,5 +6,5 @@ cp /home/carter/dev/git/archLinuxFiles/homeFiles/.Xresources /home/carter/.Xreso
 cp /home/carter/dev/git/archLinuxFiles/homeFiles/.bashrc /home/carter/.bashrc
 
 cp /home/carter/dev/git/archLinuxFiles/vim/.vimrc /home/carter/.vimrc
-cp /home/carter/dev/git/archLinuxFiles/nvim /home/carter/.config/nvim
+cp -r /home/carter/dev/git/archLinuxFiles/nvim /home/carter/.config/nvim
 
