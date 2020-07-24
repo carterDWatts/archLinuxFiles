@@ -71,6 +71,11 @@ bindsym F7 exec light -U 3
 #bindsym XF86MonBrightnessUp exec light -A 3
 #bindsym XF86MonBrightnessDown exec light -U 3
 
+#constrast (down and reset)
+bindsym F5 exec xcalib -co 95 -a
+bindsym F6 exec xcalib -c
+
+
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient
 set $up l
