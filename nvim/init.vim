@@ -27,18 +27,28 @@
   set smartindent
   set showmatch
 	set background=dark
+	set foldmethod=syntax "indent
+	set foldnestmax=10
+	set nofoldenable
+	set foldlevel=2
+	set mouse=a
+
 	"set scrolloff=20
-  "set mouse=a
-  "set signcolumn=yes
-  "set list
+	"set signcolumn=yes
+	"set list
 
 " Keymaps
 
   let mapleader=","
 	
-	" Yank and paste
+	" Yank (copy), delete (cut), paste
   map <leader>y "+y
+	map <leader>d "+d
   map <leader>p "+p
+	
+	" group tab in visual mode
+	map <Tab> >gv
+	map <S-Tab> <gv
 
   " run python code in new shell
   autocmd FileType python nnoremap <buffer> <F9> :exec '!python' shellescape(@%, 1)<cr>
