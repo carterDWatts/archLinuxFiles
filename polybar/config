@@ -58,8 +58,7 @@ font-2 = siji:pixelsize=10;1
 
 modules-left = bspwm i3
 modules-center = mpd
-modules-right = alsa filesystem  memory cpu wlan battery temperature date powermenu
-;modules-right = alsa memory cpu wlan eth battery temperature date powermenu
+modules-right = light alsa filesystem memory cpu temperature wlan battery date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -185,6 +184,21 @@ label-song-ellipsis = true
 
 [module/xbacklight]
 type = internal/xbacklight
+format = <label> <bar>
+label = BL
+bar-width = 10
+bar-indicator = |
+bar-indicator-foreground = #fff
+bar-indicator-font = 2
+bar-fill = ─
+bar-fill-font = 2
+bar-fill-foreground = #9f78e1
+bar-empty = ─
+bar-empty-font = 2
+bar-empty-foreground = ${colors.foreground-alt}
+
+[module/light]
+type = internal/light
 format = <label> <bar>
 label = BL
 bar-width = 10
@@ -341,7 +355,7 @@ bar-volume-empty-foreground = ${colors.foreground-alt}
 
 [module/battery]
 type = internal/battery
-battery = BAT1
+battery = BAT0
 adapter = ACAD
 full-at = 98
 
