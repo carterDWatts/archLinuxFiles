@@ -21,7 +21,7 @@ export PATH="/home/carter/.espressif/tools/openocd-esp32/v0.10.0-esp32-20200420/
 export PATH="/home/carter/.espressif/python_env/idf4.3_py3.8_env/bin:$PATH"
 
 
-
+alias source='pavucontrol'
 alias ls='ls --color=auto'
 alias power='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
 #alias esp = 'idf.py'
