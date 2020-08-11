@@ -42,8 +42,8 @@ bindsym F12 Insert
 bindsym $mod+z exec qutebrowser
 
 #Gaps n shit
-gaps inner 8
-gaps outer 8
+gaps inner 4
+gaps outer 4
 for_window [class=".*"] border pixel 0
 hide_edge_borders both
 
