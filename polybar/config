@@ -116,7 +116,7 @@ label-focused-background = ${colors.background-alt}
 label-focused-underline= ${colors.primary}
 label-focused-padding = 2
 
-label-occupied  ${colors.tertiary}= %index%
+#label-occupied  ${colors.tertiary}= %index%
 label-occupied-padding = 2
 
 label-urgent = %index%!
@@ -286,7 +286,7 @@ format-disconnected =
 type = internal/date
 interval = 5
 
-date =
+date = " %Y-%m-%d"
 date-alt = " %Y-%m-%d"
 
 time = %H:%M

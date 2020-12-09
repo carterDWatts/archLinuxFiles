@@ -32,6 +32,13 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec nm-applet
 
+#tp to brandon in mc
+#bindsym $mod+t "xdotool type \"/tp PopeCarter jormungand53\""
+#bindsym $mod+m exec xdotool type "test type"
+
+#launch pavucontrol
+bindsym $mod+x exec pavucontrol
+
 #Rebind ___ to insert
 bindsym F12 Insert 
 

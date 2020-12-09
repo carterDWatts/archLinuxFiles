@@ -19,7 +19,8 @@ URxvt.keysym.Control-Meta-v: builtin-string:
 
 ! special
 *.foreground:   #a5a2a2
-*.background:   #090300
+*.background:   #000000
+! #090300
 *.cursorColor:  #a5a2a2
 
 ! black
