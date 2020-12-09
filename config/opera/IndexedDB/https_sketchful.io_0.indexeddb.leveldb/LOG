@@ -1,0 +1,8 @@
+2020/08/24-17:53:34.190 382a Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_sketchful.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/24-17:53:34.191 382a Recovering log #37
+2020/08/24-17:53:34.191 382a Reusing old log /home/carter/.config/opera/IndexedDB/https_sketchful.io_0.indexeddb.leveldb/000037.log 
+2020/08/24-17:53:37.407 2166 Level-0 table #42: started
+2020/08/24-17:53:37.407 2166 Level-0 table #42: 0 bytes OK
+2020/08/24-17:53:37.414 2166 Delete type=0 #37
+2020/08/24-17:53:37.415 2166 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/24-17:53:37.415 2166 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

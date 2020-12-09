@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/carter/dev/git/archLinuxFiles/scripts/yay'
+let g:netrw_dirhist_9='/home/carter/dev/git/archLinuxFiles/vim'
+let g:netrw_dirhist_8='/home/carter/dev/git/archLinuxFiles/scripts'
+let g:netrw_dirhist_7='/usr/share/dbus-1/services'
+let g:netrw_dirhist_6='/home/carter/.local/share/Steam/steamapps/common/FTL Faster Than Light/data'
+let g:netrw_dirhist_5='/home/carter/.local/share/Steam/steamapps/common/FTL Faster Than Light'
+let g:netrw_dirhist_4='/home/carter/.config/mpv'
+let g:netrw_dirhist_3='/home/carter/dev/git/Nodejs-Passport-Login/views'
+let g:netrw_dirhist_2='/etc/systemd/system'
+let g:netrw_dirhist_1='/mnt'

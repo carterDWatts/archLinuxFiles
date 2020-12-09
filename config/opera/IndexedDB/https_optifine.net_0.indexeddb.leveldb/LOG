@@ -1,0 +1,5 @@
+2020/11/21-21:51:31.559 16cd1 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_optifine.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-21:51:37.521 16cd2 Level-0 table #5: started
+2020/11/21-21:51:37.523 16cd2 Level-0 table #5: 334 bytes OK
+2020/11/21-21:51:37.526 16cd2 Delete type=0 #3
+2020/11/21-21:51:37.526 16cd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

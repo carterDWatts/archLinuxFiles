@@ -1,0 +1,8 @@
+2020/12/01-22:50:52.630 c58a Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_www.easybib.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-22:50:52.631 c58a Recovering log #169
+2020/12/01-22:50:52.631 c58a Reusing old log /home/carter/.config/opera/IndexedDB/https_www.easybib.com_0.indexeddb.leveldb/000169.log 
+2020/12/01-22:51:58.877 c58c Level-0 table #173: started
+2020/12/01-22:51:58.877 c58c Level-0 table #173: 0 bytes OK
+2020/12/01-22:51:58.881 c58c Delete type=0 #169
+2020/12/01-22:51:58.881 c58c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-22:51:58.881 c58c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

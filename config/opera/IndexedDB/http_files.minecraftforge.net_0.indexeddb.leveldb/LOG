@@ -1,0 +1,5 @@
+2020/11/21-21:43:31.131 15ce9 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/http_files.minecraftforge.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-21:43:34.480 15cfa Level-0 table #5: started
+2020/11/21-21:43:34.483 15cfa Level-0 table #5: 356 bytes OK
+2020/11/21-21:43:34.485 15cfa Delete type=0 #3
+2020/11/21-21:43:34.486 15cfa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

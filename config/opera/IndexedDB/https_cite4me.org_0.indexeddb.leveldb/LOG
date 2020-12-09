@@ -1,0 +1,15 @@
+2020/12/01-22:31:31.862 a401 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_cite4me.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-22:31:31.862 a401 Recovering log #4
+2020/12/01-22:31:31.862 a401 Reusing old log /home/carter/.config/opera/IndexedDB/https_cite4me.org_0.indexeddb.leveldb/000004.log 
+2020/12/01-22:31:34.634 ab1f Level-0 table #8: started
+2020/12/01-22:31:34.636 ab1f Level-0 table #8: 1049 bytes OK
+2020/12/01-22:31:34.638 ab1f Delete type=0 #4
+2020/12/01-22:31:34.638 ab1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-22:31:34.639 ab1f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00S\x00h\x00o\x00w\x00e\x00d' @ 130 : 1
+2020/12/01-22:31:34.639 ab1f Compacting 1@1 + 1@2 files
+2020/12/01-22:31:34.640 ab1f Generated table #9@1: 41 keys, 1098 bytes
+2020/12/01-22:31:34.640 ab1f Compacted 1@1 + 1@2 files => 1098 bytes
+2020/12/01-22:31:34.642 ab1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/01-22:31:34.642 ab1f Delete type=2 #5
+2020/12/01-22:31:34.642 ab1f Delete type=2 #8
+2020/12/01-22:31:34.642 ab1f Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00S\x00h\x00o\x00w\x00e\x00d' @ 130 : 1 .. (end); will stop at (end)

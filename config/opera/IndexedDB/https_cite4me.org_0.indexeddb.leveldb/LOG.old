@@ -1,0 +1,5 @@
+2020/12/01-22:29:05.043 ab1f Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_cite4me.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-22:29:15.415 ab1f Level-0 table #5: started
+2020/12/01-22:29:15.417 ab1f Level-0 table #5: 1600 bytes OK
+2020/12/01-22:29:15.418 ab1f Delete type=0 #3
+2020/12/01-22:29:15.419 ab1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

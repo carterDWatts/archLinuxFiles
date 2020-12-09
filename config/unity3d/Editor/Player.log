@@ -1,0 +1,3694 @@
+Preloaded type GtkListStore
+Preloaded type GtkWindow
+Preloaded type GtkVBox
+Preloaded type GtkImage
+Preloaded type GtkNotebook
+Preloaded type GtkHBox
+Preloaded type GtkFrame
+Preloaded type GtkAlignment
+Preloaded type GtkTreeView
+Preloaded type GtkLabel
+Preloaded type GtkCheckButton
+Preloaded type GtkScrolledWindow
+Preloaded type GtkComboBox
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnScreenSelectorOK in main module; checking child
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnInputListRowActivated in main module; checking child
+Couldn't find OnSelectedDisplayChanged in main module; checking child
+Desktop is 1920 x 1080 @ 120 Hz
+Initialize engine version: 2019.1.14f1 (148b5891095a)
+GfxDevice: creating device client; threaded=1
+Renderer: AMD RENOIR (DRM 3.37.0, 5.7.9-arch1-1, LLVM 10.0.0)
+Vendor:   X.Org
+Version:  4.6 (Core Profile) Mesa 20.1.3
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shad
+ow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 47145840
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.106 seconds
+Default vsync count 0
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 1920 x 1080 @ 120 Hz
+The referenced script on this Behaviour (Game Object 'SelectedItem') is missing!
+ 
+(Filename: ./Runtime/Mono/ManagedMonoBehaviourRef.cpp Line: 333)
+
+UnloadTime: 0.870795 ms
+<color=#AAAAAA>[Info] GameLogger initialized...</color>
+<color=orange>Logger..cctor</color>
+<color=red></color>
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+<color=#AAAAAA>[Info] BuildLogger initialized...</color>
+<color=orange>Logger..cctor</color>
+<color=red></color>
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+<color=#AAAAAA>[Info] TraceLogger initialized...</color>
+<color=orange>Logger..cctor</color>
+<color=red></color>
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+<color=#AAAAAA>[Info] Starting up logger...</color>
+<color=orange>GameManager.Awake</color>
+<color=red></color>
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Startup time: Tuesday, 21 July 2020 at 15:47:19
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Version: 2.0.200.73
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Platform: LinuxPlayer
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+System Language: English
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Unity Version: 2019.1.14f1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Unity Reported Version: 2.0.4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Skipping workshop subscription info because steam isn't connected.
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Requesting stats...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Subscribed workshop items: 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building script mods
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading genders
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading genders in 6ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building script mods in 87ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: hide
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: clear
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: write
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: writeline
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: help
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: select
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: list
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARN - Multiple debug commands defined for: call
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Starting game thread...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Data path: /home/carter/.local/share/Steam/steamapps/common/Caves of Qud/CoQ_Data/StreamingAssets/Base
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Save path: /home/carter/.config/unity3d/Freehold Games/CavesOfQud
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Loading Display.txt...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Starting core...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Started!
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Cleaning up...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Starting up XRL...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Initialize Genders and Pronoun Sets...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Loading World Blueprints...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Loading Help...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Init Pathfinder...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Init Console UIs...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Looker INIT!
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Colors.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Colors.xml in 22ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Quests.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Quests.xml in 5ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading ObjectBlueprints.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Mutations.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Mutations.xml in 5ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Initilization complete...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+requesting resize 940 x 1013
+resizing window to 940 x 1013
+Desktop is 1920 x 1080 @ 120 Hz
+INFO - Done Loading ObjectBlueprints.xml in 1413ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Dispatch LoadBlueprint
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Initialize tinkering
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Initialize tinkering in 1ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Mods.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Mods.xml in 3ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading PopulationTables.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading PopulationTables.xml in 28ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Initialize liquids
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Initialize liquids in 27ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading medication names
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading medication names in 86ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Skills.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Skills.xml in 4ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Dispatch LoadBlueprint in 856ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading BuildingTiles.txt
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading BuildingTiles.txt in 7ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading ZoneTemplates.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading ZoneTemplates.xml in 5ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Starting Game...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Factions.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Factions.xml in 9ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Loading user prefs
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Beginning world build for seed: C8909A5C
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading HistorySpice.json
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading HistorySpice.json in 42ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading EncounterTables.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading EncounterTables.xml in 19ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 459ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 165ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find village for village: Qamrishur at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Tervawan at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find enemy settlement for village: Tervawan at 9 to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Sheazokh at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find enemy settlement for village: Durchekesh at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Durchekesh at 9 to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a woman
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 326ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone ThinWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Hot Loading Books...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Cached objects: 1379
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+pooling more imposters
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Conversations.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Conversations.xml in 41ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 1201ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 267ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1957ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 319ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 220ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 534ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 2
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 3
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1679ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 5
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 6
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 7
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 8
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Factions.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Factions.xml in 2ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Beginning world build for seed: 34A8ADD0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 260ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 117ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Sutara at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Shemmu at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Sush at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find village for village: Shatum at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Surchewar at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Sarvabal at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Sarvabal at 9 to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find village for village: Shegatara at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a woman
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a woman
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a woman
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a baby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a baby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 298ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone ThinWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Hot Loading Books...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Cached objects: 1376
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+pooling more imposters
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 338ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 341ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 322ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 561ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 372ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1761ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 9
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 613ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 287ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 11
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 12
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 13
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 14
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 15
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 16
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 17
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 19
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 20
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 22
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 23
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 24
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 25
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 26
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 27
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 28
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 29
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 31
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 32
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 923ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 366ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 33
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 34
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.12 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.11.20.1.1.11
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 577
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 2999
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 5540
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 92
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 7
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 577ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Can not play a disabled audio source
+ 
+(Filename: ./Modules/Audio/Public/AudioSource.cpp Line: 2258)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.12 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 35
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 764ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 374ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 369ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.13 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Loading Factions.xml
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Loading Factions.xml in 3ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Beginning world build for seed: 65CCCB96
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 201ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 117ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Ibyvah at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Nawar at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find friendly settlement for village: Nawar at 9 to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find enemy settlement for village: Manip at 12 to 18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Couldn't find enemy settlement for village: Manip at 9 to 21
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a mysterious person
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a baby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a baby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some party
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some sect
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of lovers
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some group of friends
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a baby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a child
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some organization
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: some cabal
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: someone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: a man
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Failed to get faction: somebody
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 351ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone ThinWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Hot Loading Books...
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Cached objects: 1464
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+pooling more imposters
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 396ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 667ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 427ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 36
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 37
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 38
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 39
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 40
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 41
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 661ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 369ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 42
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 43
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 44
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 45
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 46
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Can not play a disabled audio source
+ 
+(Filename: ./Modules/Audio/Public/AudioSource.cpp Line: 2258)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 47
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 48
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 49
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 50
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 650ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.12 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 350ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1852ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 51
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 52
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 53
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 54
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 55
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 56
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 57
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 58
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 59
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 1094ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 425ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.11.20.1.1.12
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 518
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 2489
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 4806
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 2
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 41
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 7
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 581ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.14 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.13 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.11.20.1.1.11
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 241
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 1106
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 2328
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 34
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 7
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 662ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.12 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 468ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.11.20.1.1.10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 310
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 1535
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 3501
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 230
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 7
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 507ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 408ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 2051ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.11.22.1.1.10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 604
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 2111
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 6731
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 2
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 442
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 680ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.20.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 428ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+pooling more imposters
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.11.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 402ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 371ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 1932ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 661ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 488ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.14.22.2.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 454ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.14.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 2161ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 60
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 61
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 62
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 63
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 64
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 65
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 1052ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 444ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 432ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 66
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 387ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.1.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1927ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 418ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.1.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.22.2.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 867ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 434ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 404ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+depth is: 1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Shale=5
+Marl=2
+Halite=1
+Gypsum=1
+Shale=1
+Sandstone=1
+Limestone=1
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Pond=1000
+SlimePool=7
+SludgePuddle=6
+GooPuddle=6
+AcidPool=5
+WaxPool=4
+InkPool=4
+OozePuddle=4
+WinePool=3
+CiderPool=3
+PutrescencePool=3
+FreshWaterPuddle=2
+SapPool=2
+GelPool=1
+HoneyPool=0
+
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 2171ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 428ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 399ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 67
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 68
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.23.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 69
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1985ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 806ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.23.1.1.11 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 915ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.23.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 473ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 431ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.23.2.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 486ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.16.23.1.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 542ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 578ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 70
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 71
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 72
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 73
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 74
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 75
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.0.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Can not play a disabled audio source
+ 
+(Filename: ./Modules/Audio/Public/AudioSource.cpp Line: 2258)
+
+Can not play a disabled audio source
+ 
+(Filename: ./Modules/Audio/Public/AudioSource.cpp Line: 2258)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 76
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 77
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 78
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 416ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 530ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1931ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 79
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Indicating achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_KILL_100_SNAPJAWS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 418ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 443ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.1.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 463ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 440ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 396ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.2.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.17.23.1.1.10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 480
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 2474
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 5491
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 2
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 280
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 14
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 553ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.2.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 460ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 428ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 2094ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.1.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 475ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.1.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 453ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 399ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thawing JoppaWorld.17.23.0.1.10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Thawing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Objects loaded: 105
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+StatsLoaded loaded: 383
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartsLoaded loaded: 1102
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectsLoaded loaded: 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+PartEventsLoaded loaded: 98
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+EffectEventsLoaded loaded: 14
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Thaw complete
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Thawing zone... in 469ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 416ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 496ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.0.0.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to right
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 606ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.0.2.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Queueing suspendzone JoppaWorld.17.23.0.1.10 for 80
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attempting to suspend zone
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 81
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Sidebar swap to left
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 82
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 83
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 84
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 85
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting stat STAT_SNAPJAWS_KILLED to 86
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Building zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Building zone... in 476ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 439ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 415ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Freezing zone...
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Freezing zone... in 407ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Saving game
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+INFO - Done Saving game in 1892ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting achievement ACH_DIE
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 48)
+

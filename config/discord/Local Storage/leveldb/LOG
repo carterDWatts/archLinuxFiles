@@ -1,0 +1,6 @@
+2020/12/07-14:56:13.244 6bf3 Reusing MANIFEST /home/carter/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2020/12/07-14:56:13.245 6bf3 Recovering log #20
+2020/12/07-14:56:13.246 6bf3 Reusing old log /home/carter/.config/discord/Local Storage/leveldb/000020.log 
+2020/12/07-14:57:46.653 6cd6 Level-0 table #24: started
+2020/12/07-14:57:46.660 6cd6 Level-0 table #24: 15215 bytes OK
+2020/12/07-14:57:46.662 6cd6 Delete type=0 #20

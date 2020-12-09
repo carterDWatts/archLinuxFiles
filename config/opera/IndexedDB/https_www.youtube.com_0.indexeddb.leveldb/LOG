@@ -1,0 +1,8 @@
+2020/11/22-13:55:28.875 9e0 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-13:55:28.875 9e0 Recovering log #13
+2020/11/22-13:55:28.875 9e0 Reusing old log /home/carter/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000013.log 
+2020/11/22-13:55:30.882 9e0 Level-0 table #17: started
+2020/11/22-13:55:30.883 9e0 Level-0 table #17: 0 bytes OK
+2020/11/22-13:55:30.886 9e0 Delete type=0 #13
+2020/11/22-13:55:30.886 9e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/22-13:55:30.886 9e0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

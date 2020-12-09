@@ -1,0 +1,5 @@
+2020/11/21-21:43:21.097 15cfa Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_0e1569628e60c34a525ea18ad102b6b3.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-21:43:23.594 15ce9 Level-0 table #5: started
+2020/11/21-21:43:23.601 15ce9 Level-0 table #5: 439 bytes OK
+2020/11/21-21:43:23.604 15ce9 Delete type=0 #3
+2020/11/21-21:43:23.605 15ce9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

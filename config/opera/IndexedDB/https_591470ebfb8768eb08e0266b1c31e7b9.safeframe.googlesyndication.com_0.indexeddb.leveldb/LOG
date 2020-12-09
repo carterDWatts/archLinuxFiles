@@ -1,0 +1,15 @@
+2020/11/17-20:53:52.404 1451f Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_591470ebfb8768eb08e0266b1c31e7b9.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/17-20:53:52.405 1451f Recovering log #13
+2020/11/17-20:53:52.405 1451f Reusing old log /home/carter/.config/opera/IndexedDB/https_591470ebfb8768eb08e0266b1c31e7b9.safeframe.googlesyndication.com_0.indexeddb.leveldb/000013.log 
+2020/11/17-20:53:55.250 1445d Level-0 table #17: started
+2020/11/17-20:53:55.252 1445d Level-0 table #17: 190 bytes OK
+2020/11/17-20:53:55.254 1445d Delete type=0 #13
+2020/11/17-20:53:55.254 1445d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/17-20:53:55.254 1445d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/11/17-20:53:55.254 1445d Compacting 1@1 + 1@2 files
+2020/11/17-20:53:55.255 1445d Generated table #18@1: 8 keys, 447 bytes
+2020/11/17-20:53:55.255 1445d Compacted 1@1 + 1@2 files => 447 bytes
+2020/11/17-20:53:55.257 1445d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/17-20:53:55.257 1445d Delete type=2 #5
+2020/11/17-20:53:55.257 1445d Delete type=2 #17
+2020/11/17-20:53:55.257 1445d Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

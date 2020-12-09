@@ -1,0 +1,5 @@
+2020/08/12-15:05:17.307 28b6 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_www.minecraft.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-15:05:25.428 2c50 Level-0 table #5: started
+2020/08/12-15:05:25.430 2c50 Level-0 table #5: 981 bytes OK
+2020/08/12-15:05:25.432 2c50 Delete type=0 #3
+2020/08/12-15:05:25.432 2c50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

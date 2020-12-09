@@ -1,0 +1,8 @@
+2020/12/07-14:58:51.358 6d92 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-14:58:51.358 6d92 Recovering log #53
+2020/12/07-14:58:51.358 6d92 Reusing old log /home/carter/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/000053.log 
+2020/12/07-14:59:29.037 6d92 Level-0 table #57: started
+2020/12/07-14:59:29.038 6d92 Level-0 table #57: 0 bytes OK
+2020/12/07-14:59:29.045 6d92 Delete type=0 #53
+2020/12/07-14:59:29.045 6d92 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/07-14:59:29.046 6d92 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

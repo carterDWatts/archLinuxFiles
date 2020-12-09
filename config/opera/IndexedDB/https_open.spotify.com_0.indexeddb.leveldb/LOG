@@ -1,0 +1,7 @@
+2020/09/02-15:36:49.708 ad1 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/02-15:36:49.708 ad1 Recovering log #3
+2020/09/02-15:36:49.709 ad1 Reusing old log /home/carter/.config/opera/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2020/09/02-15:37:32.462 1283 Level-0 table #5: started
+2020/09/02-15:37:32.470 1283 Level-0 table #5: 38120 bytes OK
+2020/09/02-15:37:32.472 1283 Delete type=0 #3
+2020/09/02-15:37:32.473 1283 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

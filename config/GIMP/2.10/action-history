@@ -1,0 +1,25 @@
+# GIMP action-history
+
+(history-item "edit-paste" 5)
+(history-item "layers-scale" 1)
+(history-item "layers-resize" 2)
+(history-item "edit-clear" 1)
+(history-item "edit-copy" 0)
+(history-item "edit-cut" 1)
+(history-item "layers-resize-to-image" 0)
+(history-item "file-save" 2)
+(history-item "view-zoom-revert" 1)
+(history-item "select-all" 0)
+(history-item "image-resize" 1)
+(history-item "file-open" 0)
+(history-item "layers-delete" 0)
+(history-item "file-save-as" 1)
+(history-item "file-quit" 0)
+(history-item "file-open-as-layers" 0)
+(history-item "tools-color-picker" 0)
+(history-item "view-close" 0)
+(history-item "image-scale" 0)
+(history-item "layers-new" 0)
+(history-item "tools-by-color-select" 1)
+
+# end of action-history

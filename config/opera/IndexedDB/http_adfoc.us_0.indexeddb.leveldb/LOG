@@ -1,0 +1,5 @@
+2020/11/22-13:55:18.704 9e5 Reusing MANIFEST /home/carter/.config/opera/IndexedDB/http_adfoc.us_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-13:55:27.854 a00 Level-0 table #5: started
+2020/11/22-13:55:27.861 a00 Level-0 table #5: 1701 bytes OK
+2020/11/22-13:55:27.863 a00 Delete type=0 #3
+2020/11/22-13:55:27.864 a00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/11/19-15:24:14.733 44fa Reusing MANIFEST /home/carter/.config/opera/IndexedDB/https_e620ebc6451728b02956225ad8b284e0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-15:24:14.733 44fa Recovering log #4
+2020/11/19-15:24:14.733 44fa Reusing old log /home/carter/.config/opera/IndexedDB/https_e620ebc6451728b02956225ad8b284e0.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/11/19-15:24:20.788 44fa Level-0 table #8: started
+2020/11/19-15:24:20.788 44fa Level-0 table #8: 0 bytes OK
+2020/11/19-15:24:20.792 44fa Delete type=0 #4
+2020/11/19-15:24:20.792 44fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-15:24:20.792 44fa Manual compaction at level-1 from (begin) .. (end); will stop at (end)
